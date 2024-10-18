@@ -1,0 +1,21 @@
+Everything that's currently in /home/data:
+- IF.txt
+- AlwaysRememberUsThisWay.txt
+Attempting to open IF.txt...
+Successfully opened IF.txt
+Top 3 most frequent words in IF.txt:
+you: 14
+If: 13
+can: 12
+Attempting to open AlwaysRememberUsThisWay.txt...
+Successfully opened AlwaysRememberUsThisWay.txt
+Top 3 most frequent words in AlwaysRememberUsThisWay.txt:
+the: 12
+I: 8
+And: 7
+IF.txt has 287 words
+AlwaysRememberUsThisWay.txt has 223 words
+Total number of words across all files: 510
+Largest file: IF.txt with 287 words
+Hostname: 3b03d1ba5e4f
+IP Address: 172.17.0.2
