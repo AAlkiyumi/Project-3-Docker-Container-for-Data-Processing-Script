@@ -1,8 +1,5 @@
 # Project 3: Docker Container for Data Processing Script
 
-**Due Date**: Sunday, 11:59 PM  
-**Total Points**: 10 (plus 2 Extra Credit)
-
 ## Project Overview
 This project involves building and deploying a Docker container that automates text file processing through a Python script. The container will count words, handle contractions, find frequent words, and display results along with the machine’s IP address. Screenshots of Docker Desktop and a tar file of the final container image are required for submission.
 
